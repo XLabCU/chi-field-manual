@@ -20,8 +20,11 @@ oral-interviews
 open-data
 images
 public-facing-work
+do-you-need-social-media
+domains-and-hosting
 hugo
 adding-a-leaflet.js-map
+other-enhancements
 collectionbuilder
 omeka
 mural

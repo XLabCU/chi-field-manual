@@ -1,13 +1,38 @@
 # Public Facing Work
 
+What do you want your 'public' digital face to be? 
+
+- research showing the more info/data available, the more (physical) visitor numbers
+- upsides, downsides, and unintended consequences
+
+- pick'n'mix approach from the following (ie you don't need *everything*)
+
+## Do you need social media?
+
+- a very good question...
+- different social media platforms for very different aims
+- different platforms & norms of behaviour, norms of engagement
+- ways you might measure the effectiveness of your socmed
+
+## Domains and Hosting 
+
+- domain names vs hosting
+- domains + hosting
+- Wordpress or Wix or Squarespace might be fine: but they might not.
+
 ## Static Websites With Hugo {#hugo}
 
 - your organization needs a basic, fast, secure website that is aesthetically pleasing
-- add soundcite to your site (embedding audio in the text)
+
+- deploying to Github Pages
+- using github + netlify to serve your pages
 
 ### Adding a Leaflet.js Map 
 
 - some basics
+
+### Other enhancements
+- oral histories? add soundcite to your site (embedding audio in the text)
 
 ## Building a Collections Website with CollectionBuilder {#collectionbuilder}
 
