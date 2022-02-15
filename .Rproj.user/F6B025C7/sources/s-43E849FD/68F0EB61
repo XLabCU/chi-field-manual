@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644939788565.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3219105104",
+    "id" : "68F0EB61",
+    "lastKnownWriteTime" : 1644939784,
+    "last_content_update" : 1644939784,
+    "path" : "~/Documents/experiments/chi-field-manual/_bookdown.yml",
+    "project_path" : "_bookdown.yml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

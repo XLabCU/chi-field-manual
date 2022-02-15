@@ -1,0 +1,30 @@
+# Tutorials {#tutorials}
+
+
+## Tables to Databases {#data-management}
+- arranging data in tables
+- arranging data in graphs
+- setting up a basic database of either kind
+  - sqlite, for local stuff? people have VIEWS on that
+  - graph basics are probably too much, for the intended audience, but maybe there's something gentle out there
+- data management workflows
+
+## Cleaning Up Messy Data with OpenRefine {#open-refine}
+
+
+## Publishing Data with Datasette {#publishing}
+- putting data online with Datasette
+- useful plugins for Datasette
+- using the desktop version of Datasette
+- putting Datasette online but behind a password
+
+## Working With Oral Interviews {#oral-interviews}
+- automatic transcription with Mozilla DeepSpeech
+
+## Working with Other Data Sources {#open-data}
+- accessing databases using Python, R
+- scraping various sites
+
+## Working with Images {#images}
+- PixPlot for exploring a collection
+

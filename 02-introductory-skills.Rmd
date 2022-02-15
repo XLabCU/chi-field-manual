@@ -1,0 +1,54 @@
+# Digitization{#digitization}
+
+Digitization does not equal 'preservation'. But it can mean that your materials find a broader audience. It can mean that you have a better sense of what materials you're responsible for, the gaps in your materials, and give you an indication of what areas you should be putting your energies into. Digitization can mean that your materials become available for research. It might even mean that your collection can be linked into other collections, so that a better, truer, picture emerges. But first things first: how does a small organization get its materials into a digital format? 
+
+- basic low cost digitization
+- data repositories available - zenodo, figshare, others - and why a small org should use them
+- a workflow: digitization - metadata creation - repositories - public facing - internal/external research
+
+## Photo Management {#photos}
+
+- digitization
+- Tropy for research photo management
+- cross reference to collectionsbuilder for putting stuff online/making it findable
+- IIF standards stuff
+
+## Image-to-Text {#scanning}
+
+- flatbed or phone
+- treat as image, or treat as text?
+- tabula, other OCR options
+  - OCR in bulk using R & Tesseract
+
+## 3d Photogrammetry {#photogrammetry}
+
+- assuming conventional cameras or phones
+- meshroom - via app, or via commandline/google collab
+- hosting such models
+- metadata & London Charter
+- photogrammetry of objects
+- photogrammetry of spaces
+
+
+# A Gentle Introduction to Digital Literacy {#digital-literacy}
+
+- digital literacy and data literacy are not the same thing
+- not going to 'teach' python or R, but rather show working blocks of code and how to reuse/repurpose for immediate tasks
+- will link out to appropriate other tutorials as necessary
+- the basic goal is always minimal amount to get things going
+
+## Introduction to Python
+
+- things like creating new environments for particular tasks
+  - packages and where to find them
+  - 
+  
+## Introduction to R & R Studio
+
+- things like creating new projects for particular tasks
+  - packages and where to find them
+  - 
+
+## Version Control
+
+- go with gitlab maybe rather than github?

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644939788887.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1DF63E3D",
+    "lastKnownWriteTime" : 1644945660,
+    "last_content_update" : 1644945660168,
+    "path" : "~/Documents/experiments/chi-field-manual/_output.yml",
+    "project_path" : "_output.yml",
+    "properties" : {
+        "cursorPosition" : "4,23",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

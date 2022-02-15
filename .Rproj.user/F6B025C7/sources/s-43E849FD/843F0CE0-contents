@@ -1,0 +1,22 @@
+--- 
+title: "A Field Manual for Cultural Heritage Informatics"
+author: "The X-Lab, Carleton University"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "A field manual for small-scale museums and community organizations addressing issues of digital management of their cultural heritage materials"
+---
+
+# Welcome
+
+The XLab – The Cultural Heritage Informatics Collaboratory – represents both a space and a series of relationships within and without the University. It is a kind of transdisciplinary ‘skunkworks’ for fostering encounters with and between cultural heritage and digital media and computation. As a skunkworks, or a space for trying non-traditional or imaginative new solutions, it aims to bring together tenacious tinkerers, who are willing to experiment, to wonder, to try, and to iterate – to try, try again. These creative engagements sometimes will not fit within existing disciplinary modes of thought or administrative structures. We accept and celebrate this – the XLab values process and relationships, grounded in lived situations.
+
+The digital era is, in some ways, an era that has a renewed focus on orality, on the transmission of knowledge through personal relationships. When we think of the ‘field’ for cultural heritage informatics, we acknowledge that we are dealing with ‘belongings’, not objects; that cultural heritage is imbued with meanings, and that knowledge holders are everyone from children to Elders, academics to artists, and that knowledge and knowledge holders are found everywhere: there are no simple binaries. Thus we see cultural heritage informatics embedded in networks of relationships, in flows of knowledge and ideas. The work of the XLab is to promote and understand these flows and relationships. The fieldwork of cultural heritage informatics can be situated in understanding the metadata of these flows.
+
+The idea of ‘cultural heritage informatics’ can be understood as actions in the context of relationships. Such relationships have to be fostered and built on mutual trust. These actions involve thinking through new protocols for how we work with differing communities, respecting the knowledge and sovereignty of the communities, with authentic reciprocal community engagement. It will require the creation of differentiated pathways of access that respect that not all cultural heritage knowledge is meant for everyone.
+
+The actions of cultural heritage informatics might run the gamut from digitization and ontologies and description, to the devising of protocols and platforms for the sharing of cultural materials, to performance and storytelling cultural heritage through immersive technologies. The actions of cultural heritage informatics might be in creating the necessary metadata to link repositories of knowledge together to generate new knowledge, new relationships. It might mean the hard work of curation and restoration to decolonize collections of cultural heritage dispersed across Western museums. The actions of cultural heritage informatics, whatever they may be, are grounded in our relationships with the cultures and communities with whom we work.
+

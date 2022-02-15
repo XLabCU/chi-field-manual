@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644939994741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3798885680",
+    "id" : "98FA61B1",
+    "lastKnownWriteTime" : 1644944740,
+    "last_content_update" : 1644944740504,
+    "path" : "~/Documents/experiments/chi-field-manual/02-introductory-skills.Rmd",
+    "project_path" : "02-introductory-skills.Rmd",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

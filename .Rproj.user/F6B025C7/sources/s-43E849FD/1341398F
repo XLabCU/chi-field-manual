@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644939998419.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4033098994",
+    "id" : "1341398F",
+    "lastKnownWriteTime" : 1644944781,
+    "last_content_update" : 1644944781714,
+    "path" : "~/Documents/experiments/chi-field-manual/04-application.Rmd",
+    "project_path" : "04-application.Rmd",
+    "properties" : {
+        "cursorPosition" : "18,68",
+        "scrollLine" : "4"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

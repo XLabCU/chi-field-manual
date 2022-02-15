@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1644940001493.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1110410717",
+    "id" : "D3EE0E7C",
+    "lastKnownWriteTime" : 1644939784,
+    "last_content_update" : 1644939784,
+    "path" : "~/Documents/experiments/chi-field-manual/06-references.Rmd",
+    "project_path" : "06-references.Rmd",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 10,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

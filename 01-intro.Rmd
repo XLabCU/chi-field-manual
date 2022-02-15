@@ -1,0 +1,24 @@
+# Audience {#intro}
+
+- discussion here of who we are writing for; our imagined audience and their level of digital literacy
+- that is to say: a small scale, probably volunteer run organization with minimal access to computing resources; that is, a couple of personal computers, some smartphones, ideally a high-speed internet connection, and while webspace-of-one's-own would be good, we'll use open resources (vercel, heroku, colab, figshare, zenodo, binder, gh-pages, etc) to get things up and running
+
+## How to use this book {#how-to-use}
+
+- how code blocks work etc
+
+## Setting Up Your Machine {#set-up}
+
+- since we're imagining small scale organizations, we're also imagining the use of common low-cost PCs
+- this will align our goals/approaches with dh mincomp type stuff
+- but sometimes we'll recommend things like Binder or Reclaim Hosting, especially since Tim Sherratt has figured out how to deploy his glam workbench to reclaim cloud. The problem there is to show people how to make THAT work for their own data
+- installation of anaconda/miniconda; installation of R and R Studio
+- command line basics
+
+## Basic Principles {#basic-principles}
+
+- future proofing
+- minimal computing
+- Indigenous Data Sovereignty & Protocols
+- Open Access and Sensible Limitations
+- personal and community safety
