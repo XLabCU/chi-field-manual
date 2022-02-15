@@ -14,10 +14,6 @@
 
 ## Visual Storytelling with Mural {#mural}
 
-# Templates & Other Useful Materials {#templates}
-
-On this page will be links to templates for wrangling metadata, etc.
-
 - Long-form storytelling
 
 ## Exhibits with Wax {#wax}
@@ -35,3 +31,7 @@ On this page will be links to templates for wrangling metadata, etc.
 ## Interactive (Non-)Fiction {#interactive-stories}
 
 - Tell interactive stories using Twine or Ink or Ren'Py
+
+# Templates & Other Useful Materials {#templates}
+
+On this page will be links to templates for wrangling metadata, etc.

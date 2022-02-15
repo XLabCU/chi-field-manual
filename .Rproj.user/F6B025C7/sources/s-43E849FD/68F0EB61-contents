@@ -4,3 +4,5 @@ output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
+view: https://github.com/XLabCU/chi-field-manual/tree/main/%s
+edit: https://github.com/XLabCU/chi-field-manual/tree/main/%s

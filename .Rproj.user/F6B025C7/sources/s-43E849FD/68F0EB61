@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1277464966",
+    "hash" : "0",
     "id" : "68F0EB61",
-    "lastKnownWriteTime" : 1644946320,
-    "last_content_update" : 1644946320766,
+    "lastKnownWriteTime" : 1644946863,
+    "last_content_update" : 1644946863364,
     "path" : "~/Documents/experiments/chi-field-manual/_bookdown.yml",
     "project_path" : "_bookdown.yml",
     "properties" : {
-        "cursorPosition" : "6,0",
+        "cursorPosition" : "5,22",
         "scrollLine" : "0"
     },
     "read_only" : false,

@@ -16,3 +16,18 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
+sharing:
+      facebook: true
+      github: false
+      twitter: true
+      linkedin: false
+      weibo: false
+      instapaper: false
+      vk: false
+      whatsapp: false
+title: "A Field Manual for Cultural Heritage Informatics"
+author: "The XLab"
+description: "A resource for small cultural heritage organizations looking to digitize and get their materials online in a useful way."
+url: 'https\://xlabcu.github.io/chi-field-manual/'
+github-repo: "xlabcu/chi-field-manual"
+cover-image: "images/cover.png"
