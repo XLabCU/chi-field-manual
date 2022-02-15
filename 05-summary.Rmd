@@ -1,3 +1,11 @@
 # Final Words
 
 We have finished a nice book.
+
+## Next Steps
+
+Now that you have your materials in a format where you can explore them, check out some of the following resources:
+
+Dougherty, Jack and Ilya Ilyankou. 2022. **Hands-On Data Visualization: Interactive Storytelling from Spreadsheets to Code** [https://handsondataviz.org/](https://handsondataviz.org/).
+
+...more...

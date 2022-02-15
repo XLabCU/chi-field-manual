@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3226913806",
+    "hash" : "3121127142",
     "id" : "13CE322C",
-    "lastKnownWriteTime" : 1644939784,
-    "last_content_update" : 1644939784,
+    "lastKnownWriteTime" : 1644948505,
+    "last_content_update" : 1644948505486,
     "path" : "~/Documents/experiments/chi-field-manual/05-summary.Rmd",
     "project_path" : "05-summary.Rmd",
     "properties" : {
+        "cursorPosition" : "10,10",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
