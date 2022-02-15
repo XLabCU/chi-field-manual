@@ -1,4 +1,4 @@
-# Tutorials {#tutorials}
+# Internal Data Management {#tutorials}
 
 
 ## Tables to Databases {#data-management}
@@ -17,6 +17,7 @@
 - useful plugins for Datasette
 - using the desktop version of Datasette
 - putting Datasette online but behind a password
+- this also gives your collection an API
 
 ## Working With Oral Interviews {#oral-interviews}
 - automatic transcription with Mozilla DeepSpeech

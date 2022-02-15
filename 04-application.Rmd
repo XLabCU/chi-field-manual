@@ -6,7 +6,8 @@
 
 ## Building a Collections Website with CollectionBuilder {#collectionbuilder}
 
-- you have wonderful materials. Showcase them.
+- you have wonderful materials. Showcase them. 
+- also makes your data available in a variety of useful formats
 
 ## Omeka for Exhibitions {#omeka}
 
@@ -27,6 +28,11 @@
 ## Bots {#bots}
 
 - Some simple bots that can make your materials more accessible
+- powered by the API that datasette made available to you
+
+## Something something Linked Open Data?
+
+- this might be a step too far
 
 ## Interactive (Non-)Fiction {#interactive-stories}
 

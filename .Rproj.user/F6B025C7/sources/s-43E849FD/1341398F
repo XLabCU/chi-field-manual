@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2219138827",
+    "hash" : "3167104040",
     "id" : "1341398F",
-    "lastKnownWriteTime" : 1644946540,
-    "last_content_update" : 1644946540819,
+    "lastKnownWriteTime" : 1644949724,
+    "last_content_update" : 1644949724150,
     "path" : "~/Documents/experiments/chi-field-manual/04-application.Rmd",
     "project_path" : "04-application.Rmd",
     "properties" : {
-        "cursorPosition" : "36,68",
-        "scrollLine" : "23"
+        "cursorPosition" : "34,30",
+        "scrollLine" : "22"
     },
     "read_only" : false,
     "read_only_alternatives" : [
