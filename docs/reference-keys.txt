@@ -21,6 +21,7 @@ open-data
 images
 public-facing-work
 hugo
+adding-a-leaflet.js-map
 collectionbuilder
 omeka
 mural

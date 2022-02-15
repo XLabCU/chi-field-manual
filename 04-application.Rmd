@@ -3,6 +3,11 @@
 ## Static Websites With Hugo {#hugo}
 
 - your organization needs a basic, fast, secure website that is aesthetically pleasing
+- add soundcite to your site (embedding audio in the text)
+
+### Adding a Leaflet.js Map 
+
+- some basics
 
 ## Building a Collections Website with CollectionBuilder {#collectionbuilder}
 
@@ -12,6 +17,8 @@
 ## Omeka for Exhibitions {#omeka}
 
 - Tell stories about your materials, pulling them together from your collection's materials
+- Neatline?
+- Omeka.net versus hosting your own
 
 ## Visual Storytelling with Mural {#mural}
 
